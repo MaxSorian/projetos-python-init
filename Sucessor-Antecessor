@@ -1,0 +1,4 @@
+print('Sucessor e Antencessor'.center(40))
+nome = input('Olá, Sou Maxmillian. Quem é Você?: ')
+nn1 = int(input(f'Ok {nome} digite um número inteiro irei dizer seu sucessor e antecessor: '))
+print(f'Ok {nome}, sucessor de {nn1} é {nn1+1} e o antecessor {nn1-1} ')
