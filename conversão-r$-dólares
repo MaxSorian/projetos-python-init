@@ -1,0 +1,4 @@
+print('CONVERSÃO DE REAIS PARA DÓLARES')
+rs = float(input('Digite quantos R$ você tem: '))
+do = rs / 5.11
+print(f'Você tem {do}$')
